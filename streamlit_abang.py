@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-def hitung_luas_bujursangkar(s)
+def hitung_luas_bujursangkar(s):
 luas = s*s
 return luas
 
