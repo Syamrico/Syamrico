@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 def hitung_luas_bujursangkar(s):
-luas = s * s
+luas = s*s
 return luas
 
 st.title("lagi bikin kalkulator")
