@@ -3,7 +3,7 @@ import math
 
 def hitung_luas_bujursangkar(s):
     luas = s * s
-return luas
+    return luas
 
 st.title("lagi bikin kalkulator")
 
